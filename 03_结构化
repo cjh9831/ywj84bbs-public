@@ -1,0 +1,25 @@
+├── README.md
+├── hong_kong/
+│   ├── raw/
+│   ├── hexagrams/
+│   ├── zodiac/
+│   ├── candidates/
+│   └── layers/
+│       ├── 28/
+│       ├── 24/
+│       ├── 20/
+│       ├── 16/
+│       ├── 12/
+│       └── 8/
+└── macau/
+    ├── raw/
+    ├── hexagrams/
+    ├── zodiac/
+    ├── candidates/
+    └── layers/
+        ├── 28/
+        ├── 24/
+        ├── 20/
+        ├── 16/
+        ├── 12/
+        └── 8/
