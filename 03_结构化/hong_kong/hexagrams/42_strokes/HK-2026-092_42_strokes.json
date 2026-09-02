@@ -1,0 +1,111 @@
+{
+  "draw_id": "HK-2026-092",
+  "year": 2026,
+  "period": 92,
+  "draw_date": "2026-08-22",
+  "market": "hong_kong",
+  "source": "用户提供历史卦象资料",
+  "source_version": "trial-v1.0",
+  "strokes": 42,
+
+  "calendar": {
+    "gregorian": "2026年8月22日21时35分",
+    "lunar": "丙午年 七月初十日 癸亥时"
+  },
+
+  "four_pillars": {
+    "year": "丙午",
+    "month": "丙申",
+    "day": "戊辰",
+    "hour": "癸亥",
+    "void": "戌亥"
+  },
+
+  "hexagram": {
+    "source_type": "42画",
+    "main_hexagram": {
+      "palace": "坤宫",
+      "name": "地泽临"
+    },
+    "changed_hexagram": {
+      "palace": "坤宫",
+      "name": "地雷复"
+    },
+    "lines": [
+      {
+        "line": 6,
+        "six_beast": "朱雀",
+        "role": "子孙",
+        "stem_branch": "癸酉金",
+        "yin_yang": "阴"
+      },
+      {
+        "line": 5,
+        "six_beast": "青龙",
+        "role": "妻财",
+        "stem_branch": "癸亥水",
+        "yin_yang": "阴",
+        "position": "应"
+      },
+      {
+        "line": 4,
+        "six_beast": "玄武",
+        "role": "兄弟",
+        "stem_branch": "癸丑土",
+        "yin_yang": "阴"
+      },
+      {
+        "line": 3,
+        "six_beast": "白虎",
+        "role": "兄弟",
+        "stem_branch": "丁丑土",
+        "yin_yang": "阴"
+      },
+      {
+        "line": 2,
+        "six_beast": "螣蛇",
+        "role": "官鬼",
+        "stem_branch": "丁卯木",
+        "yin_yang": "阳",
+        "position": "世",
+        "moving": true,
+        "changed_to": "官鬼庚寅木",
+        "changed_yin_yang": "阴"
+      },
+      {
+        "line": 1,
+        "six_beast": "勾陈",
+        "role": "父母",
+        "stem_branch": "丁巳火",
+        "yin_yang": "阳",
+        "changed_to": "妻财庚子水",
+        "changed_position": "世"
+      }
+    ]
+  },
+
+  "analysis": {
+    "topic": "2026年第92期的生肖心水",
+    "use_god": "子孙酉金",
+    "strength": "偏旺",
+    "zodiac_candidates": {
+      "8": ["猪", "狗", "鼠", "虎", "猴", "兔", "马", "蛇"],
+      "7": ["猪", "狗", "鼠", "虎", "猴", "兔", "马"],
+      "6": ["猪", "狗", "鼠", "虎", "猴", "兔"],
+      "5": ["猪", "狗", "鼠", "虎", "猴"],
+      "4": ["猪", "狗", "鼠", "虎"],
+      "3": ["猪", "狗", "鼠"],
+      "2": ["猪", "狗"],
+      "1": ["猪"]
+    },
+    "reference_note": "一般只需参考6肖内中即可",
+    "stated_result_note": "开29虎",
+    "stated_strokes_match": "42画"
+  },
+
+  "verification": {
+    "verified": false,
+    "verification_notes": "本记录为原始卦象及分析资料，尚未进行独立核验。",
+    "actual_result_entered": false
+  }
+}
